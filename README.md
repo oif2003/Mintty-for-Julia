@@ -7,6 +7,9 @@ Must have 64bit Julia 1.3.1 installed at default location, ie: C:\Users\YourUser
 # How to Use:  
 Unzip file and run mintty4julia.exe to start.  The file is zipped because I included all the Windows emojis (about 3000 of them!).  Mintty should be configured to display them properly.
 
+# Issues:
+Still crashes with cd()!
+
 # How it Works:
 mintty4julia.exe is autohotkey v2 binary renamed so that it starts mintty4julia.ahk automatically.
 If you have doubts you can download AutoHotkey version 2.0-a108-a2fa0498 from https://www.autohotkey.com/
