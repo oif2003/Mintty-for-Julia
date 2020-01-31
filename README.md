@@ -7,6 +7,9 @@ Must have 64bit Julia 1.3.1 installed at default location, ie: C:\Users\YourUser
 ## How to Use:  
 Unzip file and run mintty4julia.exe to start.  The file is zipped because I included all the Windows emojis (about 3000 of them!).
 
+## Limitations:
+Only supports one instance of Julia/Mintty.
+
 ## Issues:
 Still crashes with cd()
 
