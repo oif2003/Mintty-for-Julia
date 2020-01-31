@@ -15,7 +15,7 @@ Still crashes with cd()
 
 ## How it Works:
 mintty4julia.exe is an Autohotkey v2 binary renamed so that it starts mintty4julia.ahk automatically.
-If you have doubts you can download AutoHotkey version 2.0-a108-a2fa0498 from https://www.autohotkey.com/.  Be sure to run it with the 64bit version.
+If you have doubts you can download AutoHotkey version 2.0-a108-a2fa0498 from https://www.autohotkey.com/.  Be sure to run the script with the 64bit version.
 
 This script hides the extra Mintty window that is spawned when Julia is started via the command line with:
 "mintty %PATH_OF_JULIA%\julia.exe"
